@@ -47,7 +47,7 @@ const Registration = () => {
         <div className="col-md-6">
           <div className="card mt-4">
             <div className="card-body">
-              <h2 className="card-title">Register</h2>
+              <h2 className="card-title">Register Here</h2>
               <form onSubmit={handleSubmit}>
                 <div className="mb-3">
                   <label htmlFor="email" className="form-label">
